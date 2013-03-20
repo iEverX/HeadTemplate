@@ -1,0 +1,8 @@
+{
+  "template_root": "templates",
+  "python": 
+  {
+    "on_save": true,
+    "first_character": "#"
+  }
+}
